@@ -1,0 +1,8 @@
+# dbt_project.yml
+name: "Genetic Map Construction Project_Summer 2024"
+version: "1.0.0"
+
+# Your project configs...
+
+dbt-cloud:
+project-id: 70403103951092 
