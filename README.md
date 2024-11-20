@@ -5,10 +5,11 @@
 ## Project Overview
 This repository documents the workflow for my master's thesis project, *Mapping Phenology and Fruit Quality-Related Traits in a Biparental Blueberry Population*. The project aims to determine the presence of traits that are linked
 to certain phenology and fruit quality-related traits in Blueberry (*Vaccinium sp.*) for marker-assisted selection and breeding. 
+
 Key features of this project:
--**Analysis**: genotype calling, linkage mapping, QTL analysis
--**Tools**: Python, R, SQL
--**Data**: SNPs. Raw data is excluded due to privacy restrictions. Simulated data is provided in the repository for replication purposes. 
+- **Analysis**: genotype calling, linkage mapping, QTL analysis
+- **Tools**: Python, R, SQL
+- **Data**: SNPs. Raw data is excluded due to privacy restrictions. Simulated data is provided in the repository for replication purposes. 
 
 ## Repository Structure
 ```plaintext
