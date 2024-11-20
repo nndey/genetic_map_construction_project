@@ -20,6 +20,6 @@ Key features of this project:
 /results/                 # Outputs including plots and metrics
 /docs/                    # Documentation for the project
 .gitignore                # Files to exclude from version control
-LICENSE                   # Licensing details
+LICENSE.md                # Licensing details
 README.md                 # Project overview
 
