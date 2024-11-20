@@ -16,4 +16,4 @@ For inquiries about accessing the original raw data, please contact nndeybo@ncsu
 ## File Overview
 - `synthetic_data/synthetic_snp_data.vcf `: Simulated VCF-like data representing SNPs and genotypes across 10 samples.
 - `synthetic_traits.csv`: Simulated trait data for these same samples, including 5 generalized traits with average values.
-- 
+
